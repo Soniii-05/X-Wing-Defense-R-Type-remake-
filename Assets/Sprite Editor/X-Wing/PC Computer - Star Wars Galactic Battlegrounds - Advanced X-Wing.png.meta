@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: b1c4c70bd9e0f5345a4a4031742fcdaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4507938535380268124
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_0
+  - first:
+      213: 7632791530052037500
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_1
+  - first:
+      213: 3714620719488370231
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_2
+  - first:
+      213: 2988185922654055065
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_3
+  - first:
+      213: -7499452975250123872
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_4
+  - first:
+      213: -7704343360800819895
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_5
+  - first:
+      213: -5260919415994095392
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_6
+  - first:
+      213: 1863106777519279020
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_7
+  - first:
+      213: 4430890663125831082
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_8
+  - first:
+      213: -8838675091952487851
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_9
+  - first:
+      213: 710310781876691127
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_10
+  - first:
+      213: 215541747833757523
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_11
+  - first:
+      213: 2524031060243658088
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_12
+  - first:
+      213: -911406023602342289
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_13
+  - first:
+      213: -4104803994169728262
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_14
+  - first:
+      213: 7113161715316597491
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_15
+  - first:
+      213: 8256067360546994477
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_16
+  - first:
+      213: 6962671239611940319
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_17
+  - first:
+      213: -4062143489749660755
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_18
+  - first:
+      213: 2325648107949334821
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_19
+  - first:
+      213: -3731500309077516436
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_20
+  - first:
+      213: 8945374205400975063
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_21
+  - first:
+      213: -4436739587822760327
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_22
+  - first:
+      213: 2922998626760077810
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_23
+  - first:
+      213: 2462743440496884172
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_24
+  - first:
+      213: -6899154186761416499
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_25
+  - first:
+      213: 6950464991643004497
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_26
+  - first:
+      213: 8995294804060756502
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_27
+  - first:
+      213: 8106200542324590374
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_28
+  - first:
+      213: -5518263879106097612
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_29
+  - first:
+      213: -2519523158226585660
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_30
+  - first:
+      213: 5105120719013913793
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_31
+  - first:
+      213: 6789717760566024705
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_32
+  - first:
+      213: 8243220623281896803
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_33
+  - first:
+      213: -2002839834680301901
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_34
+  - first:
+      213: -8012881321016163191
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_35
+  - first:
+      213: -7944730654305560046
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_36
+  - first:
+      213: 4625521366389325969
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_37
+  - first:
+      213: -6819083203632100671
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_38
+  - first:
+      213: -6115926443347498054
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_39
+  - first:
+      213: -4677355791340358402
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_40
+  - first:
+      213: 5275650247114873850
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_41
+  - first:
+      213: 2747582107655480247
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_42
+  - first:
+      213: 4495998809564519456
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_43
+  - first:
+      213: -9217910231800173204
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_44
+  - first:
+      213: -6595102530289942608
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_45
+  - first:
+      213: -435244222331636201
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_46
+  - first:
+      213: -6057731275711733988
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_47
+  - first:
+      213: 2600621557284258220
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_48
+  - first:
+      213: -6442766826001413216
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_49
+  - first:
+      213: -6231256283370727175
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_50
+  - first:
+      213: -7742288710861668682
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_51
+  - first:
+      213: -2322479668658023292
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_52
+  - first:
+      213: 181754893206519985
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_53
+  - first:
+      213: 4853923034416421196
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_54
+  - first:
+      213: -3363960540971304158
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_55
+  - first:
+      213: 3958764309504425659
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_56
+  - first:
+      213: -946842541551093363
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_57
+  - first:
+      213: 2203397394428958438
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_58
+  - first:
+      213: -8283582148096290478
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_59
+  - first:
+      213: -1151918136881413291
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_60
+  - first:
+      213: 5241520935158984253
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_61
+  - first:
+      213: 4500050945981613520
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_62
+  - first:
+      213: -2705124545773665207
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_63
+  - first:
+      213: -116361917056120163
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_64
+  - first:
+      213: 8587577635042278656
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_65
+  - first:
+      213: 3253065139801425698
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_66
+  - first:
+      213: -1686266878548944995
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_67
+  - first:
+      213: 6336332540043030220
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_68
+  - first:
+      213: 7174757969340534534
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_69
+  - first:
+      213: -3198888480539113803
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_70
+  - first:
+      213: -542401501799192300
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_71
+  - first:
+      213: 1224486226898538685
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_72
+  - first:
+      213: 1679458262947183969
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_73
+  - first:
+      213: -5811929522369370871
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_74
+  - first:
+      213: -6564697567992655982
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_75
+  - first:
+      213: -3747270649039565685
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_76
+  - first:
+      213: -1536643670659855539
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_77
+  - first:
+      213: 1297689479060198993
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_78
+  - first:
+      213: -2322587361860077713
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_79
+  - first:
+      213: 5621895088807278278
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_80
+  - first:
+      213: -2007277048065349684
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_81
+  - first:
+      213: 4324579724956711694
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_82
+  - first:
+      213: -6776086050895457786
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_83
+  - first:
+      213: 8768932353016000369
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_84
+  - first:
+      213: -2684804961799602104
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_85
+  - first:
+      213: 1457791834949200190
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_86
+  - first:
+      213: -1673261102526656571
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_87
+  - first:
+      213: -9103717157880994551
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_88
+  - first:
+      213: 1936022882971334704
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_89
+  - first:
+      213: -3888393554561821072
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_90
+  - first:
+      213: 4990882818534387022
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_91
+  - first:
+      213: 4096382163053171507
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_92
+  - first:
+      213: -703720879899759642
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_93
+  - first:
+      213: -1589624845595548482
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_94
+  - first:
+      213: -6324051217803339852
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_95
+  - first:
+      213: 3645379446959380499
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_96
+  - first:
+      213: 1240683454969348485
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_97
+  - first:
+      213: -1305937428000064754
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_98
+  - first:
+      213: 6561566101259985650
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_99
+  - first:
+      213: -5810909875433909248
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_100
+  - first:
+      213: -9167791670358269145
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_101
+  - first:
+      213: -2809914766861145169
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_102
+  - first:
+      213: -4686273048097669918
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_103
+  - first:
+      213: 8925155845986561161
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_104
+  - first:
+      213: 5692537610178049152
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_105
+  - first:
+      213: -8606561906514642877
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_106
+  - first:
+      213: 8195082274492518847
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_107
+  - first:
+      213: 8403183248871825496
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_108
+  - first:
+      213: 6688593828021533949
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_109
+  - first:
+      213: -3968303903002095278
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_110
+  - first:
+      213: 1349382487372748860
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_111
+  - first:
+      213: 2385244579098441523
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_112
+  - first:
+      213: 4364959495034269901
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_113
+  - first:
+      213: 1785407220924578094
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_114
+  - first:
+      213: -2760243013991324376
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_115
+  - first:
+      213: 8207995527631566946
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_116
+  - first:
+      213: -3683549904081959880
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_117
+  - first:
+      213: 6201530127143846358
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_118
+  - first:
+      213: 7733101579257138541
+    second: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b2aeb63a6f8e30800000000000000
+      internalID: 4507938535380268124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 515
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bac51d47f1de960800000000000000
+      internalID: 7632791530052037500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 517
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736096c0ddbfc8330800000000000000
+      internalID: 3714620719488370231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 518
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2e9ab34b287920800000000000000
+      internalID: 2988185922654055065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 516
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a35878b0479ce790800000000000000
+      internalID: -7499452975250123872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 412
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f3df588ca41590800000000000000
+      internalID: -7704343360800819895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 413
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e867b92aa57df6b0800000000000000
+      internalID: -5260919415994095392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 415
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc8a43eb51bd910800000000000000
+      internalID: 1863106777519279020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 416
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadc53e059fad7d30800000000000000
+      internalID: 4430890663125831082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 414
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552341b45d7b65580800000000000000
+      internalID: -8838675091952487851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e3e984e78bd900800000000000000
+      internalID: 710310781876691127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 320
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd5e1e312cdf200800000000000000
+      internalID: 215541747833757523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 322
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86530eb50e8270320800000000000000
+      internalID: 2524031060243658088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 323
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f705ec090a53f0800000000000000
+      internalID: -911406023602342289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_14
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 321
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a8e6f38ec807c0800000000000000
+      internalID: -4104803994169728262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 220
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2aa5794e607b260800000000000000
+      internalID: 7113161715316597491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 221
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29b91b9581739270800000000000000
+      internalID: 8256067360546994477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 223
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddf5e44a9060a060800000000000000
+      internalID: 6962671239611940319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 224
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab4ecaa40e50a7c0800000000000000
+      internalID: -4062143489749660755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 222
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52121e2e1ac564020800000000000000
+      internalID: 2325648107949334821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 134
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9c2e3d3c073cc0800000000000000
+      internalID: -3731500309077516436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 135
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d60ed7f17a542c70800000000000000
+      internalID: 8945374205400975063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 137
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e49ea0ad88d62c0800000000000000
+      internalID: -4436739587822760327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 138
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13dfaa3c3909820800000000000000
+      internalID: 2922998626760077810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 136
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc97db76c1c6d2220800000000000000
+      internalID: 2462743440496884172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0df6702d74140a0800000000000000
+      internalID: -6899154186761416499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 73
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e6ba2b513057060800000000000000
+      internalID: 6950464991643004497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a55f517f4b5dc70800000000000000
+      internalID: 8995294804060756502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 74
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627065bd1720f7070800000000000000
+      internalID: 8106200542324590374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e030d2d303b63b0800000000000000
+      internalID: -5518263879106097612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b88e590bd80dd0800000000000000
+      internalID: -2519523158226585660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4af40fe3809d640800000000000000
+      internalID: 5105120719013913793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad2bb645ce93e50800000000000000
+      internalID: 6789717760566024705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d34ef7b7dc56270800000000000000
+      internalID: 8243220623281896803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e0e728cb7434e0800000000000000
+      internalID: -2002839834680301901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984087184e68cc090800000000000000
+      internalID: -8012881321016163191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ad5f91095aeb190800000000000000
+      internalID: -7944730654305560046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908d98fc27213040800000000000000
+      internalID: 4625521366389325969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0da194ffbd51a0800000000000000
+      internalID: -6819083203632100671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbaad7ad4ddf1ba0800000000000000
+      internalID: -6115926443347498054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ba0180b1b61fb0800000000000000
+      internalID: -4677355791340358402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 58
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbdb7ab2ffd63940800000000000000
+      internalID: 5275650247114873850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 50
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3260e9e5f512620800000000000000
+      internalID: 2747582107655480247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 42
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c1ca2b81ff46e30800000000000000
+      internalID: 4495998809564519456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 50
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dac169b77631080800000000000000
+      internalID: -9217910231800173204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 42
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfb9c8e03d7974a0800000000000000
+      internalID: -6595102530289942608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 50
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716b1619fa3b5f9f0800000000000000
+      internalID: -435244222331636201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 42
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9d6eff7d9eeba0800000000000000
+      internalID: -6057731275711733988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 50
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1c6251783471420800000000000000
+      internalID: 2600621557284258220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 42
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc38df4b1b696a0800000000000000
+      internalID: -6442766826001413216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 50
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f85445cc612689a0800000000000000
+      internalID: -6231256283370727175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_51
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 42
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb298107ddd8490800000000000000
+      internalID: -7742288710861668682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_52
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 58
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484529fdb05e4cfd0800000000000000
+      internalID: -2322479668658023292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_53
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 42
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b083c5cc19b58200800000000000000
+      internalID: 181754893206519985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491a7958499c5340800000000000000
+      internalID: 4853923034416421196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_55
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b79f406bfc051d0800000000000000
+      internalID: -3363960540971304158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe71814a2b50f630800000000000000
+      internalID: 3958764309504425659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_57
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d897e9c99b32cd2f0800000000000000
+      internalID: -946842541551093363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_58
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e695f1914a049e10800000000000000
+      internalID: 2203397394428958438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_59
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25114f2bcedca0d80800000000000000
+      internalID: -8283582148096290478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_60
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 50
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5538ad0ce809300f0800000000000000
+      internalID: -1151918136881413291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_61
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 57
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eacee058f9db840800000000000000
+      internalID: 5241520935158984253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5056a3e74637e30800000000000000
+      internalID: 4500050945981613520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_63
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94488f7de87757ad0800000000000000
+      internalID: -2705124545773665207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8c74f379926ef0800000000000000
+      internalID: -116361917056120163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db8c13c543d2770800000000000000
+      internalID: 8587577635042278656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22702195285352d20800000000000000
+      internalID: 3253065139801425698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_67
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97559b453d2998e0800000000000000
+      internalID: -1686266878548944995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 37
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce6304bfdc2fe750800000000000000
+      internalID: 6336332540043030220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_69
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 44
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f02ff0c5cd19360800000000000000
+      internalID: 7174757969340534534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_70
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6806910e34b93d0800000000000000
+      internalID: -3198888480539113803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_71
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ee9735b00978f0800000000000000
+      internalID: -542401501799192300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db055aa5cbf3ef010800000000000000
+      internalID: 1224486226898538685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_73
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbf0a5462ae4710800000000000000
+      internalID: 1679458262947183969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_74
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905619f64e0e75fa0800000000000000
+      internalID: -5811929522369370871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_75
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 36
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f4de9d75285e4a0800000000000000
+      internalID: -6564697567992655982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ccfb6d2350ffbc0800000000000000
+      internalID: -3747270649039565685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b87f719bebcaae0800000000000000
+      internalID: -1536643670659855539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_78
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 16
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156152ca4b1520210800000000000000
+      internalID: 1297689479060198993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_79
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b488991384cfd0800000000000000
+      internalID: -2322587361860077713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6fed41ccbf40e40800000000000000
+      internalID: 5621895088807278278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 23
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72548e828b424e0800000000000000
+      internalID: -2007277048065349684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bb6e4e85ef30c30800000000000000
+      internalID: 4324579724956711694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60295e053a186f1a0800000000000000
+      internalID: -6776086050895457786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_84
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fe2f8e38181b970800000000000000
+      internalID: 8768932353016000369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408ab8ac18adbad0800000000000000
+      internalID: -2684804961799602104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ac9e33fd1b3410800000000000000
+      internalID: 1457791834949200190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_87
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 22
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf8b6f74e167c8e0800000000000000
+      internalID: -1673261102526656571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905efdc7a7919a180800000000000000
+      internalID: -9103717157880994551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b888fd822eda10800000000000000
+      internalID: 1936022882971334704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_90
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0769c69e9a6a90ac0800000000000000
+      internalID: -3888393554561821072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_91
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4da75a0b7d234540800000000000000
+      internalID: 4990882818534387022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d70dafd549d830800000000000000
+      internalID: 4096382163053171507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebac849691eb36f0800000000000000
+      internalID: -703720879899759642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_94
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4642800a480f9e0800000000000000
+      internalID: -1589624845595548482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_95
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b794757ce47c38a0800000000000000
+      internalID: -6324051217803339852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_96
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 22
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318168ffa4df69230800000000000000
+      internalID: 3645379446959380499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_97
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5810724670bc73110800000000000000
+      internalID: 1240683454969348485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_98
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b3b2114d060ede0800000000000000
+      internalID: -1305937428000064754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_99
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2a8dbba9d5f0b50800000000000000
+      internalID: 6561566101259985650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_100
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004d3fc71408b5fa0800000000000000
+      internalID: -5810909875433909248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_101
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723a2818c0675c080800000000000000
+      internalID: -9167791670358269145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabed18386d2109d0800000000000000
+      internalID: -2809914766861145169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_103
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecb6afdd7307feb0800000000000000
+      internalID: -4686273048097669918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca70554f58cdb70800000000000000
+      internalID: 8925155845986561161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_105
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084b63dcbc4fffe40800000000000000
+      internalID: 5692537610178049152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_106
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34839c8ab895f8880800000000000000
+      internalID: -8606561906514642877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb11a34c8e7cab170800000000000000
+      internalID: 8195082274492518847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_108
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850a48394aa1e9470800000000000000
+      internalID: 8403183248871825496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_109
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcf71e16a8a2dc50800000000000000
+      internalID: 6688593828021533949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_110
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25193cc00a0cde8c0800000000000000
+      internalID: -3968303903002095278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385cf11938f9b210800000000000000
+      internalID: 1349382487372748860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_112
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337b69f9e471a1120800000000000000
+      internalID: 2385244579098441523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07c70c883739c30800000000000000
+      internalID: 4364959495034269901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2970ae686a07c810800000000000000
+      internalID: 1785407220924578094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_115
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8252b496a95a1b9d0800000000000000
+      internalID: -2760243013991324376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_116
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268797ec178a8e170800000000000000
+      internalID: 8207995527631566946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_117
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83445c6e0e661ecc0800000000000000
+      internalID: -3683549904081959880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_118
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ca442bc2401650800000000000000
+      internalID: 6201530127143846358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 9
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d42a32aee715b60800000000000000
+      internalID: 7733101579257138541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_0: 4507938535380268124
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_1: 7632791530052037500
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_10: 710310781876691127
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_100: -5810909875433909248
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_101: -9167791670358269145
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_102: -2809914766861145169
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_103: -4686273048097669918
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_104: 8925155845986561161
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_105: 5692537610178049152
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_106: -8606561906514642877
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_107: 8195082274492518847
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_108: 8403183248871825496
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_109: 6688593828021533949
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_11: 215541747833757523
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_110: -3968303903002095278
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_111: 1349382487372748860
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_112: 2385244579098441523
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_113: 4364959495034269901
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_114: 1785407220924578094
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_115: -2760243013991324376
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_116: 8207995527631566946
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_117: -3683549904081959880
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_118: 6201530127143846358
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_119: 7733101579257138541
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_12: 2524031060243658088
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_13: -911406023602342289
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_14: -4104803994169728262
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_15: 7113161715316597491
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_16: 8256067360546994477
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_17: 6962671239611940319
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_18: -4062143489749660755
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_19: 2325648107949334821
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_2: 3714620719488370231
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_20: -3731500309077516436
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_21: 8945374205400975063
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_22: -4436739587822760327
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_23: 2922998626760077810
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_24: 2462743440496884172
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_25: -6899154186761416499
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_26: 6950464991643004497
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_27: 8995294804060756502
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_28: 8106200542324590374
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_29: -5518263879106097612
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_3: 2988185922654055065
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_30: -2519523158226585660
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_31: 5105120719013913793
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_32: 6789717760566024705
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_33: 8243220623281896803
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_34: -2002839834680301901
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_35: -8012881321016163191
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_36: -7944730654305560046
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_37: 4625521366389325969
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_38: -6819083203632100671
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_39: -6115926443347498054
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_4: -7499452975250123872
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_40: -4677355791340358402
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_41: 5275650247114873850
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_42: 2747582107655480247
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_43: 4495998809564519456
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_44: -9217910231800173204
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_45: -6595102530289942608
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_46: -435244222331636201
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_47: -6057731275711733988
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_48: 2600621557284258220
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_49: -6442766826001413216
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_5: -7704343360800819895
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_50: -6231256283370727175
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_51: -7742288710861668682
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_52: -2322479668658023292
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_53: 181754893206519985
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_54: 4853923034416421196
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_55: -3363960540971304158
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_56: 3958764309504425659
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_57: -946842541551093363
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_58: 2203397394428958438
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_59: -8283582148096290478
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_6: -5260919415994095392
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_60: -1151918136881413291
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_61: 5241520935158984253
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_62: 4500050945981613520
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_63: -2705124545773665207
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_64: -116361917056120163
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_65: 8587577635042278656
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_66: 3253065139801425698
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_67: -1686266878548944995
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_68: 6336332540043030220
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_69: 7174757969340534534
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_7: 1863106777519279020
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_70: -3198888480539113803
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_71: -542401501799192300
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_72: 1224486226898538685
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_73: 1679458262947183969
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_74: -5811929522369370871
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_75: -6564697567992655982
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_76: -3747270649039565685
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_77: -1536643670659855539
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_78: 1297689479060198993
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_79: -2322587361860077713
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_8: 4430890663125831082
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_80: 5621895088807278278
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_81: -2007277048065349684
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_82: 4324579724956711694
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_83: -6776086050895457786
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_84: 8768932353016000369
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_85: -2684804961799602104
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_86: 1457791834949200190
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_87: -1673261102526656571
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_88: -9103717157880994551
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_89: 1936022882971334704
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_9: -8838675091952487851
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_90: -3888393554561821072
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_91: 4990882818534387022
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_92: 4096382163053171507
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_93: -703720879899759642
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_94: -1589624845595548482
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_95: -6324051217803339852
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_96: 3645379446959380499
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_97: 1240683454969348485
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_98: -1305937428000064754
+      PC Computer - Star Wars Galactic Battlegrounds - Advanced X-Wing_99: 6561566101259985650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
