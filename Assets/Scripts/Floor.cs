@@ -16,7 +16,7 @@ public class Floor : MonoBehaviour
     {
         if (transform.position.x >= -9.13f)
         {
-            transform.position = new Vector2(transform.position.x - 0.01f, transform.position.y);
+            transform.position = new Vector2(transform.position.x - 3f * Time.deltaTime, transform.position.y);
         } else 
           {
             transform.position = startPos;
