@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: f8c3c9d5469194e4d858023ba18c2b4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2581652561276576872
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_0
+  - first:
+      213: 6113613049200531920
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_1
+  - first:
+      213: 8005817558385113408
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_2
+  - first:
+      213: -57437509545419902
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_3
+  - first:
+      213: -6375910896122231738
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_4
+  - first:
+      213: 7845271631176577445
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_5
+  - first:
+      213: 8993362749056190395
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_6
+  - first:
+      213: -2176609107655449
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_7
+  - first:
+      213: -6580710374017290598
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_8
+  - first:
+      213: -2026429836173299733
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_9
+  - first:
+      213: -1266846423436803513
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_10
+  - first:
+      213: 2427125310591479450
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_11
+  - first:
+      213: 4552330535266736294
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_12
+  - first:
+      213: -4345551995849616316
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_13
+  - first:
+      213: 961934833965576499
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_14
+  - first:
+      213: -3862950739561278271
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_15
+  - first:
+      213: 6018950550653733872
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_16
+  - first:
+      213: 1884927270124183306
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_17
+  - first:
+      213: -9199451341893235619
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_18
+  - first:
+      213: -5477481357944825108
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_19
+  - first:
+      213: -587326186865231828
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_20
+  - first:
+      213: 7583566114209518796
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_21
+  - first:
+      213: 8544147149047186421
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_22
+  - first:
+      213: -5491536046184413113
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_23
+  - first:
+      213: 1562720184464139086
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_24
+  - first:
+      213: -3089694451671421980
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_25
+  - first:
+      213: 1629142922676887820
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_26
+  - first:
+      213: 7356951284691953261
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_27
+  - first:
+      213: 8879426861788470880
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_28
+  - first:
+      213: -3613262324503840856
+    second: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 338
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bd1a77ca02c2cd0800000000000000
+      internalID: -2581652561276576872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 339
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d95acb4daae7d450800000000000000
+      internalID: 6113613049200531920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 341
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049312817a06a1f60800000000000000
+      internalID: 8005817558385113408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 342
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b13cea3e0f33ff0800000000000000
+      internalID: -57437509545419902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 340
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644871d22d63487a0800000000000000
+      internalID: -6375910896122231738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 265
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1bab68bf000ec60800000000000000
+      internalID: 7845271631176577445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 266
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb789b975c7decc70800000000000000
+      internalID: 8993362749056190395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 268
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c253b26448fff0800000000000000
+      internalID: -2176609107655449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 269
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ea8fae7ce9ca4a0800000000000000
+      internalID: -6580710374017290598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 267
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef23aceccca0e3e0800000000000000
+      internalID: -2026429836173299733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424312d3e14b6ee0800000000000000
+      internalID: -1266846423436803513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e2a2b4c91eea120800000000000000
+      internalID: 2427125310591479450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 201
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8dcb6a0802d2f30800000000000000
+      internalID: 4552330535266736294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 202
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444d466cb7f71b3c0800000000000000
+      internalID: -4345551995849616316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 200
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b79b82aa795d00800000000000000
+      internalID: 961934833965576499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 124
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c41e97e4ca046ac0800000000000000
+      internalID: -3862950739561278271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 125
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8b54d2ab978350800000000000000
+      internalID: 6018950550653733872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fd23b8d5b982a10800000000000000
+      internalID: 1884927270124183306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 128
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c86fdcebbf45080800000000000000
+      internalID: -9199451341893235619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 126
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceadfd3d9b31cf3b0800000000000000
+      internalID: -5477481357944825108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 54
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28fc90e1f569d7f0800000000000000
+      internalID: -587326186865231828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 55
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4d520933d3e3960800000000000000
+      internalID: 7583566114209518796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 57
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3cf9f2098e29670800000000000000
+      internalID: 8544147149047186421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 58
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748cce7bf052ac3b0800000000000000
+      internalID: -5491536046184413113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 56
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4361566ab5efa510800000000000000
+      internalID: 1562720184464139086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb21af14433f15d0800000000000000
+      internalID: -3089694451671421980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016f7a4bd0eb9610800000000000000
+      internalID: 1629142922676887820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66eae1f634291660800000000000000
+      internalID: 7356951284691953261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e96f18faf0a3b70800000000000000
+      internalID: 8879426861788470880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a775ab4f0d1bddc0800000000000000
+      internalID: -3613262324503840856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_0: -2581652561276576872
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_1: 6113613049200531920
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_10: -1266846423436803513
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_11: 2427125310591479450
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_12: 4552330535266736294
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_13: -4345551995849616316
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_14: 961934833965576499
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_15: -3862950739561278271
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_16: 6018950550653733872
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_17: 1884927270124183306
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_18: -9199451341893235619
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_19: -5477481357944825108
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_2: 8005817558385113408
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_20: -587326186865231828
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_21: 7583566114209518796
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_22: 8544147149047186421
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_23: -5491536046184413113
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_24: 1562720184464139086
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_25: -3089694451671421980
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_26: 1629142922676887820
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_27: 7356951284691953261
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_28: 8879426861788470880
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_29: -3613262324503840856
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_3: -57437509545419902
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_4: -6375910896122231738
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_5: 7845271631176577445
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_6: 8993362749056190395
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_7: -2176609107655449
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_8: -6580710374017290598
+      PC Computer - Star Wars Galactic Battlegrounds - Tie interceptor_9: -2026429836173299733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

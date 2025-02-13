@@ -14,12 +14,12 @@ public class Floor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.x >= -9.13f)
+        if (transform.position.x >= -9.13f) //se arriva alla posizione -9,13
         {
             transform.position = new Vector2(transform.position.x - 3f * Time.deltaTime, transform.position.y);
         } else 
           {
-            transform.position = startPos;
+            transform.position = startPos; //va nella posizione originale
           }
         
     }

@@ -1,0 +1,5044 @@
+fileFormatVersion: 2
+guid: 264445168b1143c40ac1f9b339f8459a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -939881597135971900
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_0
+  - first:
+      213: -6204847276819923111
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_1
+  - first:
+      213: 1411184521115134226
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_2
+  - first:
+      213: 824610707992596860
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_3
+  - first:
+      213: -3280168315226214273
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_4
+  - first:
+      213: 6664481566358180237
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_5
+  - first:
+      213: -973329505180612783
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_6
+  - first:
+      213: 6286321993940721697
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_7
+  - first:
+      213: -188281066133848401
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_8
+  - first:
+      213: 2634775510738923296
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_9
+  - first:
+      213: -519692622669642572
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_10
+  - first:
+      213: -9190033854024130548
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_11
+  - first:
+      213: 711902802922751365
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_12
+  - first:
+      213: 8915873374420313552
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_13
+  - first:
+      213: 8617037688633500105
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_14
+  - first:
+      213: 3824951455602855105
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_15
+  - first:
+      213: -3887713996335221851
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_16
+  - first:
+      213: -6447304834814235323
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_17
+  - first:
+      213: 4140197822764650263
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_18
+  - first:
+      213: 1939958502555334943
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_19
+  - first:
+      213: -6551960493250664805
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_20
+  - first:
+      213: -3717364024938853164
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_21
+  - first:
+      213: -1617720455829495243
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_22
+  - first:
+      213: 8277685581078639506
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_23
+  - first:
+      213: -6303157197998192504
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_24
+  - first:
+      213: 638256247449130698
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_25
+  - first:
+      213: -950383020996720194
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_26
+  - first:
+      213: 7327774698562947358
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_27
+  - first:
+      213: 3581073514403465501
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_28
+  - first:
+      213: -8906126253170928682
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_29
+  - first:
+      213: 6524157828149112293
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_30
+  - first:
+      213: -8426974682184900066
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_31
+  - first:
+      213: 4144707364004934392
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_32
+  - first:
+      213: 1967252316318387374
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_33
+  - first:
+      213: 2259194664685069705
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_34
+  - first:
+      213: -7254520982308732116
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_35
+  - first:
+      213: -1308899526021258326
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_36
+  - first:
+      213: -2003445662751797496
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_37
+  - first:
+      213: 3103989181130394824
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_38
+  - first:
+      213: -3044978389304171798
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_39
+  - first:
+      213: 7436618534112007169
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_40
+  - first:
+      213: -9200249981313899680
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_41
+  - first:
+      213: 5854537636938850446
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_42
+  - first:
+      213: -3015239649437827738
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_43
+  - first:
+      213: 6479117320890800610
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_44
+  - first:
+      213: -7958866054344439613
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_45
+  - first:
+      213: 3437617840952657262
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_46
+  - first:
+      213: 2724669487580964572
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_47
+  - first:
+      213: 1404036275011827038
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_48
+  - first:
+      213: -7088879429044998157
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_49
+  - first:
+      213: -6628196521968489387
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_50
+  - first:
+      213: -3702203781511918130
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_51
+  - first:
+      213: -775549610413709622
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_52
+  - first:
+      213: -2948788176850196807
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_53
+  - first:
+      213: -216036866686074226
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_54
+  - first:
+      213: -3765968989021606867
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_55
+  - first:
+      213: -999792867964652398
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_56
+  - first:
+      213: -4707114893610853807
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_57
+  - first:
+      213: -2726011601615758811
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_58
+  - first:
+      213: -9049333815996936399
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_59
+  - first:
+      213: 6919822856611590551
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_60
+  - first:
+      213: 3765959492638020831
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_61
+  - first:
+      213: 7632857438035784484
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_62
+  - first:
+      213: -3066895626544383083
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_63
+  - first:
+      213: 725983602151563120
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_64
+  - first:
+      213: -270846365300259181
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_65
+  - first:
+      213: 1395577389706390114
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_66
+  - first:
+      213: -4419807254220386311
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_67
+  - first:
+      213: 7774567680714965981
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_68
+  - first:
+      213: -2525803070384660004
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_69
+  - first:
+      213: 7871021424732785889
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_70
+  - first:
+      213: 205309262157254050
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_71
+  - first:
+      213: 6717312392259783226
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_72
+  - first:
+      213: -7364591393320929659
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_73
+  - first:
+      213: -6391673970752840384
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_74
+  - first:
+      213: 2693905740007298316
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_75
+  - first:
+      213: -1463573434653756895
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_76
+  - first:
+      213: 5875103160931920519
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_77
+  - first:
+      213: -6636835453097512637
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_78
+  - first:
+      213: 2434054554507018112
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_79
+  - first:
+      213: -3886799261071294785
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_80
+  - first:
+      213: -719617025760228073
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_81
+  - first:
+      213: 6128614268138074485
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_82
+  - first:
+      213: -7810178104117500077
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_83
+  - first:
+      213: 829268512940490966
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_84
+  - first:
+      213: -6656901281941434617
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_85
+  - first:
+      213: 4340997652092456367
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_86
+  - first:
+      213: -2614276747460876550
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_87
+  - first:
+      213: 7140618662902080454
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_88
+  - first:
+      213: 2580142594169855713
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_89
+  - first:
+      213: 7082453188218645666
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_90
+  - first:
+      213: 3080573622484314320
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_91
+  - first:
+      213: -9013646640591070248
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_92
+  - first:
+      213: 3724270198425329408
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_93
+  - first:
+      213: 5731749029796510808
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_94
+  - first:
+      213: -7408066612426021138
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_95
+  - first:
+      213: -6882238265736582748
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_96
+  - first:
+      213: -9016703050494517640
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_97
+  - first:
+      213: 4660037211686909428
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_98
+  - first:
+      213: -6695607230184510886
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_99
+  - first:
+      213: 3227307479415602674
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_100
+  - first:
+      213: 11740114390480679
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_101
+  - first:
+      213: -3979047536025329175
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_102
+  - first:
+      213: -9169332580579167298
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_103
+  - first:
+      213: 2658843897855472012
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_104
+  - first:
+      213: -3369868226043192576
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_105
+  - first:
+      213: 4662051294196933128
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_106
+  - first:
+      213: -3202860000938424307
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_107
+  - first:
+      213: -3440518564023484456
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_108
+  - first:
+      213: 4274125790180736422
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_109
+  - first:
+      213: -5245492446779426700
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_110
+  - first:
+      213: 6247354527312435443
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_111
+  - first:
+      213: -7192958029492140920
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_112
+  - first:
+      213: -1378073544217280812
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_113
+  - first:
+      213: -5279375174075323725
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_114
+  - first:
+      213: 2390647179842845698
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_115
+  - first:
+      213: 4538806943241635149
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_116
+  - first:
+      213: 4761004778335440693
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_117
+  - first:
+      213: 6704757319990360129
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_118
+  - first:
+      213: 5927456376108521676
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_119
+  - first:
+      213: -5933420489152558994
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_120
+  - first:
+      213: 1377670109361399876
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_121
+  - first:
+      213: -3517704192626016694
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_122
+  - first:
+      213: 6000941753279625753
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_123
+  - first:
+      213: 3282106112945766082
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_124
+  - first:
+      213: -7846685054657854660
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_125
+  - first:
+      213: 4634309091051648117
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_126
+  - first:
+      213: 6926297748982161680
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_127
+  - first:
+      213: 1204065089519585599
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_128
+  - first:
+      213: 4803074991890472453
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_129
+  - first:
+      213: 4307165400163096959
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_130
+  - first:
+      213: -2757530822904133906
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_131
+  - first:
+      213: 731969009201692520
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_132
+  - first:
+      213: -3745096876354836538
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_133
+  - first:
+      213: -2097984932702402067
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_134
+  - first:
+      213: -8506870103110631094
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_135
+  - first:
+      213: 1719417450043782440
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_136
+  - first:
+      213: -1253429215815511914
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_137
+  - first:
+      213: 4785293200660757046
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_138
+  - first:
+      213: -7265973353293364920
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_139
+  - first:
+      213: -5717151507543063181
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_140
+  - first:
+      213: 6552389223230785559
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_141
+  - first:
+      213: -4316881162473294718
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_142
+  - first:
+      213: -2257669885643847449
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_143
+  - first:
+      213: -1417421629882992308
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_144
+  - first:
+      213: 449621950343514677
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_145
+  - first:
+      213: 1823437217355311668
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_146
+  - first:
+      213: -1456622757566890166
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_147
+  - first:
+      213: 4884352873010541910
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_148
+  - first:
+      213: -8029202948696867527
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_149
+  - first:
+      213: 4749243812173412155
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_150
+  - first:
+      213: 4823219671798413955
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_151
+  - first:
+      213: -315669399406666058
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_152
+  - first:
+      213: 1538333446049231888
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_153
+  - first:
+      213: -7853252249779961804
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_154
+  - first:
+      213: -218737439746990347
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_155
+  - first:
+      213: -1757264196520512833
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_156
+  - first:
+      213: 634680906939509183
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_157
+  - first:
+      213: 7814076401487290733
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_158
+  - first:
+      213: 4672927716615048123
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_159
+  - first:
+      213: -7715497573985936375
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_160
+  - first:
+      213: 7747854249235891667
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_161
+  - first:
+      213: 6495966264861773090
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_162
+  - first:
+      213: 7670254087670066240
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_163
+  - first:
+      213: 2277790952586962102
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_164
+  - first:
+      213: -5025154268819381258
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_165
+  - first:
+      213: 5475553137550085262
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_166
+  - first:
+      213: 8444356320463664611
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_167
+  - first:
+      213: 2507740871028922861
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_168
+  - first:
+      213: 4257487545962497297
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_169
+  - first:
+      213: -2818551510789331258
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_170
+  - first:
+      213: -3565423614521416234
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_171
+  - first:
+      213: -1608744183983295403
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_172
+  - first:
+      213: 8811435556661861391
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_173
+  - first:
+      213: 8661906008012517224
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_174
+  - first:
+      213: -315038736660883860
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_175
+  - first:
+      213: -4484658157786571596
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_176
+  - first:
+      213: -1141414198543770755
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_177
+  - first:
+      213: 2886293611529287987
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_178
+  - first:
+      213: 6418824028271681635
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_179
+  - first:
+      213: 3385377990712152932
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_180
+  - first:
+      213: -8532444939246513968
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_181
+  - first:
+      213: -4037809030138773750
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_182
+  - first:
+      213: -1342913932592934857
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_183
+  - first:
+      213: 7272935852763955557
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_184
+  - first:
+      213: -8575669762908261357
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_185
+  - first:
+      213: -5106254567958622999
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_186
+  - first:
+      213: 2333308595901253419
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_187
+  - first:
+      213: -3412812771178006989
+    second: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c998c7caaed4f2f0800000000000000
+      internalID: -939881597135971900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f3993c644f3e9a0800000000000000
+      internalID: -6204847276819923111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e89d58d8859310800000000000000
+      internalID: 1411184521115134226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d1e7e11b917b00800000000000000
+      internalID: 824610707992596860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70337fdb408a72d0800000000000000
+      internalID: -3280168315226214273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811be6bcaefc7c50800000000000000
+      internalID: 6664481566358180237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1578d42d8f90e72f0800000000000000
+      internalID: -973329505180612783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1062
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ef801c808d3750800000000000000
+      internalID: 6286321993940721697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faef82f2e57136df0800000000000000
+      internalID: -188281066133848401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fed7c0e5a909420800000000000000
+      internalID: 2634775510738923296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b48269205ea9c8f0800000000000000
+      internalID: -519692622669642572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00e31196e0767080800000000000000
+      internalID: -9190033854024130548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585c0d2d3df21e900800000000000000
+      internalID: 711902802922751365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5afa0889b8bbb70800000000000000
+      internalID: 8915873374420313552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_14
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1272f6f1ed59770800000000000000
+      internalID: 8617037688633500105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_15
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1063
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc425a5515f41530800000000000000
+      internalID: 3824951455602855105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_16
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1067
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3ff14e7b01c0ac0800000000000000
+      internalID: -3887713996335221851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_17
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1067
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d2d3a79629686a0800000000000000
+      internalID: -6447304834814235323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_18
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1067
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f8bbdebffe47930800000000000000
+      internalID: 4140197822764650263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_19
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1067
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f193fcfcafd1cea10800000000000000
+      internalID: 1939958502555334943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_20
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1067
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a66925a2c215a0800000000000000
+      internalID: -6551960493250664805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 957
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc04b06d15496cc0800000000000000
+      internalID: -3717364024938853164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 957
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532666401d3bc89e0800000000000000
+      internalID: -1617720455829495243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 957
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293b09ecd2f30e270800000000000000
+      internalID: 8277685581078639506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 956
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880fd98cefa688a0800000000000000
+      internalID: -6303157197998192504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 956
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac611e8ecaa8bd800800000000000000
+      internalID: 638256247449130698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 957
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98de08daf8fc2f0800000000000000
+      internalID: -950383020996720194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 956
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1980fd934c71b560800000000000000
+      internalID: 7327774698562947358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 956
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190494536782b130800000000000000
+      internalID: 3581073514403465501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_29
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 956
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d357f20c55176480800000000000000
+      internalID: -8906126253170928682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_30
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 957
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed696d6af67a8a50800000000000000
+      internalID: 6524157828149112293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 956
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12a821bc2f5d0b80800000000000000
+      internalID: -8426974682184900066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_32
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2b5715365f48930800000000000000
+      internalID: 4144707364004934392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_33
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacc8b90f851d4b10800000000000000
+      internalID: 1967252316318387374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e20be3954a5f10800000000000000
+      internalID: 2259194664685069705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_35
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ced94a93c25b90800000000000000
+      internalID: -7254520982308732116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_36
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa363d0e0dad5dde0800000000000000
+      internalID: -1308899526021258326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_37
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc1e0d8c45234e0800000000000000
+      internalID: -2003445662751797496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccceefe6b5931b20800000000000000
+      internalID: 3103989181130394824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_39
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 960
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2a8c4b9401eb5d0800000000000000
+      internalID: -3044978389304171798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 844
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10415d7e72d243760800000000000000
+      internalID: 7436618534112007169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 844
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063adf21365225080800000000000000
+      internalID: -9200249981313899680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 850
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8025ed46fe7f3150800000000000000
+      internalID: 5854537636938850446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 848
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66db596a387b726d0800000000000000
+      internalID: -3015239649437827738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 844
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9d6c120e27ae950800000000000000
+      internalID: 6479117320890800610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 844
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c882efcd7d6c8190800000000000000
+      internalID: -7958866054344439613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 850
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65478b863fd4bf20800000000000000
+      internalID: 3437617840952657262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 848
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6eb998678ffc520800000000000000
+      internalID: 2724669487580964572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 846
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55b7df9d832c7310800000000000000
+      internalID: 1404036275011827038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_49
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 845
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffe230c7bd3f9d90800000000000000
+      internalID: -7088879429044998157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_50
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 852
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca696816ae304a0800000000000000
+      internalID: -6628196521968489387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_51
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 849
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdcfdc96412f9cc0800000000000000
+      internalID: -3702203781511918130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_52
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 846
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac629950db1bc35f0800000000000000
+      internalID: -775549610413709622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_53
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 846
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6e8f8c6ccc317d0800000000000000
+      internalID: -2948788176850196807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_54
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 851
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c9c64d9b700df0800000000000000
+      internalID: -216036866686074226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_55
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 848
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cea3e48279cbbc0800000000000000
+      internalID: -3765968989021606867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_56
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 847
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947ff70fa50022f0800000000000000
+      internalID: -999792867964652398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_57
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 851
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15adf5191f7fcaeb0800000000000000
+      internalID: -4707114893610853807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_58
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 856
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a591034e24b2ad0800000000000000
+      internalID: -2726011601615758811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_59
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 852
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f829bf6de4a6280800000000000000
+      internalID: -9049333815996936399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 738
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79176fca936280060800000000000000
+      internalID: 6919822856611590551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 737
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41335a430634430800000000000000
+      internalID: 3765959492638020831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 743
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233257366b5de960800000000000000
+      internalID: 7632857438035784484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 740
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7f904da23075d0800000000000000
+      internalID: -3066895626544383083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 736
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f900f5d36331a00800000000000000
+      internalID: 725983602151563120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_65
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 739
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396829f6aa2cd3cf0800000000000000
+      internalID: -270846365300259181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_66
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 744
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a240aed361e5310800000000000000
+      internalID: 1395577389706390114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_67
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 742
+        width: 77
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffcf7c28b0b9a2c0800000000000000
+      internalID: -4419807254220386311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_68
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 740
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd38f3b3d10d4eb60800000000000000
+      internalID: 7774567680714965981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 734
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a1216d7b82fcd0800000000000000
+      internalID: -2525803070384660004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_70
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 734
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eccfa8884c7b3d60800000000000000
+      internalID: 7871021424732785889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_71
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 733
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0bf7afa769d200800000000000000
+      internalID: 205309262157254050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_72
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 737
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a49f9e700b83d50800000000000000
+      internalID: 6717312392259783226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_73
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 733
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586f435a527bbc990800000000000000
+      internalID: -7364591393320929659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_74
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 734
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d9a2d53663c47a0800000000000000
+      internalID: -6391673970752840384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_75
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 733
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0555836ffca26520800000000000000
+      internalID: 2693905740007298316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_76
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 737
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122b3cc27b750bbe0800000000000000
+      internalID: -1463573434653756895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_77
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 733
+        width: 50
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a2f1e723f888150800000000000000
+      internalID: 5875103160931920519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_78
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 734
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417761a15935e3a0800000000000000
+      internalID: -6636835453097512637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_79
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 733
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fff4d98bf77c120800000000000000
+      internalID: 2434054554507018112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 623
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe389a4aa05f0ac0800000000000000
+      internalID: -3886799261071294785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 626
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0d35b0286306f0800000000000000
+      internalID: -719617025760228073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 629
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b2c1c4363d0550800000000000000
+      internalID: 6128614268138074485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 630
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357ea87f46cac9390800000000000000
+      internalID: -7810178104117500077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 629
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d00c31a157228b00800000000000000
+      internalID: 829268512940490966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_85
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 627
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fc909cd8fed93a0800000000000000
+      internalID: -6656901281941434617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_86
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 625
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad86cf6d525e3c30800000000000000
+      internalID: 4340997652092456367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_87
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 624
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e703362938bbd0800000000000000
+      internalID: -2614276747460876550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_88
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 624
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3adce57d2981360800000000000000
+      internalID: 7140618662902080454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_89
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 628
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee595be4028ec320800000000000000
+      internalID: 2580142594169855713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 631
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acea1676ade94260800000000000000
+      internalID: 7082453188218645666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_91
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 629
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ad98536560ca20800000000000000
+      internalID: 3080573622484314320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_92
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 625
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db1da0032819e280800000000000000
+      internalID: -9013646640591070248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_93
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 624
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f17b073044fa330800000000000000
+      internalID: 3724270198425329408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_94
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 623
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf5bedf534b8f40800000000000000
+      internalID: 5731749029796510808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_95
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 625
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee66ae56aa2413990800000000000000
+      internalID: -7408066612426021138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_96
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 628
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ab2fc2c06d70a0800000000000000
+      internalID: -6882238265736582748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_97
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 630
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed71e195c3ed280800000000000000
+      internalID: -9016703050494517640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_98
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 631
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f533b27727cba040800000000000000
+      internalID: 4660037211686909428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_99
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 680
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa051f2bc6413a0800000000000000
+      internalID: -6695607230184510886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_100
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 631
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd3783bd03b9cc20800000000000000
+      internalID: 3227307479415602674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 524
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727fdd36295b92000800000000000000
+      internalID: 11740114390480679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_102
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 523
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e121de095597c8c0800000000000000
+      internalID: -3979047536025329175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 521
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b923699cffb080800000000000000
+      internalID: -9169332580579167298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_104
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 518
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f3ec107c16e420800000000000000
+      internalID: 2658843897855472012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_105
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 518
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bd1d6e3b2db31d0800000000000000
+      internalID: -3369868226043192576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 519
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802224393fee2b040800000000000000
+      internalID: 4662051294196933128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_107
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 520
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0802c27cc72d83d0800000000000000
+      internalID: -3202860000938424307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_108
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 523
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3e3c3892d040d0800000000000000
+      internalID: -3440518564023484456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_109
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 523
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adfe09c2ceb05b30800000000000000
+      internalID: 4274125790180736422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_110
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 521
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b7b559644437b0800000000000000
+      internalID: -5245492446779426700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_111
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 520
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d26ab7df03b650800000000000000
+      internalID: 6247354527312435443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_112
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 519
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884c3d738ca7d2c90800000000000000
+      internalID: -7192958029492140920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_113
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 521
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb092b96910ece0800000000000000
+      internalID: -1378073544217280812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_114
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 522
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba69312044ebb6b0800000000000000
+      internalID: -5279375174075323725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_115
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 523
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c72d1a1f84d2120800000000000000
+      internalID: 2390647179842845698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_116
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 520
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d458ef30ed41dfe30800000000000000
+      internalID: 4538806943241635149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_117
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 527
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f0f9afe9c721240800000000000000
+      internalID: 4761004778335440693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_118
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 526
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148b93b52451c0d50800000000000000
+      internalID: 6704757319990360129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_119
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 524
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc892974b2e824250800000000000000
+      internalID: 5927456376108521676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_120
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 523
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e688901708148ada0800000000000000
+      internalID: -5933420489152558994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 408
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448e82e4aa77e1310800000000000000
+      internalID: 1377670109361399876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_122
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 403
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ebf95acaa9e2fc0800000000000000
+      internalID: -3517704192626016694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_123
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 394
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aba02fab0a74350800000000000000
+      internalID: 6000941753279625753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_124
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 395
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3541de126c8d20800000000000000
+      internalID: 3282106112945766082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 410
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3380cc2489fa1390800000000000000
+      internalID: -7846685054657854660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_126
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 441
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5743f7f809f505040800000000000000
+      internalID: 4634309091051648117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_127
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 442
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0116ba80b172f1060800000000000000
+      internalID: 6926297748982161680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_128
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 444
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39834bc1d2b5b010800000000000000
+      internalID: 1204065089519585599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_129
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 409
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e9131e143f7a240800000000000000
+      internalID: 4803074991890472453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_130
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 403
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7913917c1026cb30800000000000000
+      internalID: 4307165400163096959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_131
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 395
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6cb9b93584bb9d0800000000000000
+      internalID: -2757530822904133906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_132
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 400
+        width: 73
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fbf0c8fe9782a00800000000000000
+      internalID: 731969009201692520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_133
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 408
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7e17bbb3eb60cc0800000000000000
+      internalID: -3745096876354836538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 449
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c62eb1d572e2e0800000000000000
+      internalID: -2097984932702402067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_135
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 439
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4143b966b681f980800000000000000
+      internalID: -8506870103110631094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_136
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 448
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b77a9f099cd710800000000000000
+      internalID: 1719417450043782440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_137
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 413
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6905838e4ccea9ee0800000000000000
+      internalID: -1253429215815511914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_138
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 400
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af97bffc6c86240800000000000000
+      internalID: 4785293200660757046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_139
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 393
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ce716bb31a2b90800000000000000
+      internalID: -7265973353293364920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_140
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 272
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3758ec1aef898a0b0800000000000000
+      internalID: -5717151507543063181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 283
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c4c05843ceea50800000000000000
+      internalID: 6552389223230785559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_142
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 326
+        width: 97
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284343d547b5714c0800000000000000
+      internalID: -4316881162473294718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_143
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 317
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80a1e53352ba0e0800000000000000
+      internalID: -2257669885643847449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_144
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 324
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c497ed5998e445ce0800000000000000
+      internalID: -1417421629882992308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_145
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 288
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a817918c06d3600800000000000000
+      internalID: 449621950343514677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_146
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 277
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa0bafc762e4910800000000000000
+      internalID: 1823437217355311668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_147
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 270
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb97bc15909cbe0800000000000000
+      internalID: -1456622757566890166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_148
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 270
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655b3714f05b8c340800000000000000
+      internalID: 4884352873010541910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_149
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 283
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d776d657a829090800000000000000
+      internalID: -8029202948696867527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_150
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 316
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b377158a514b8e140800000000000000
+      internalID: 4749243812173412155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_151
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 305
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a783bacb48fe240800000000000000
+      internalID: 4823219671798413955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_152
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 317
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be97ed8a548e9bf0800000000000000
+      internalID: -315669399406666058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_153
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 291
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014fdd56e12495510800000000000000
+      internalID: 1538333446049231888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_154
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 283
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300458efa4a30390800000000000000
+      internalID: -7853252249779961804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_155
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 279
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe5dcc1573e6fcf0800000000000000
+      internalID: -218737439746990347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_156
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 275
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f1ed0681fc97e0800000000000000
+      internalID: -1757264196520512833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_157
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb92ad31ce6dec800800000000000000
+      internalID: 634680906939509183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 188
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a96e161d217c60800000000000000
+      internalID: 7814076401487290733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_159
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbcae1000399d040800000000000000
+      internalID: 4672927716615048123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_160
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 184
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1e2db5db0de490800000000000000
+      internalID: -7715497573985936375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_161
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 87
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c439c368e58b60800000000000000
+      internalID: 7747854249235891667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 92
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc10a96ee462a50800000000000000
+      internalID: 6495966264861773090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_163
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 128
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cef883477327a60800000000000000
+      internalID: 7670254087670066240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_164
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 98
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b46b899dc65c9f10800000000000000
+      internalID: 2277790952586962102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ab7121d0134ab0800000000000000
+      internalID: -5025154268819381258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_166
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 113
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc27061921dfb40800000000000000
+      internalID: 5475553137550085262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 91
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5bf065551603570800000000000000
+      internalID: 8444356320463664611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_168
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 96
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9586e19094dc220800000000000000
+      internalID: 2507740871028922861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_169
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 102
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1158ebcad52a51b30800000000000000
+      internalID: 4257487545962497297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_170
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 108
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6e242955e72e8d0800000000000000
+      internalID: -2818551510789331258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_171
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 116
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d569aeec12158ec0800000000000000
+      internalID: -3565423614521416234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_172
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 131
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554333b20b79ca9e0800000000000000
+      internalID: -1608744183983295403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_173
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 92
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c931c24f1884a70800000000000000
+      internalID: 8811435556661861391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_174
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 97
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f686d1f95453870800000000000000
+      internalID: 8661906008012517224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_175
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 104
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6617da20f1c0abf0800000000000000
+      internalID: -315038736660883860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_176
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 110
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcd21e8a2b43c1c0800000000000000
+      internalID: -4484658157786571596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_177
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 118
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b163a75d1e820f0800000000000000
+      internalID: -1141414198543770755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_178
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 85
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339bea85fbc2e0820800000000000000
+      internalID: 2886293611529287987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_179
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 91
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36020e0027e341950800000000000000
+      internalID: 6418824028271681635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463d2d698574bfe20800000000000000
+      internalID: 3385377990712152932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_181
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0d1aad88aa69980800000000000000
+      internalID: -8532444939246513968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_182
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 30
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb6bf8412d6f7c0800000000000000
+      internalID: -4037809030138773750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_183
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73010e3b4e20d5de0800000000000000
+      internalID: -1342913932592934857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_184
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561c23adf98aee460800000000000000
+      internalID: 7272935852763955557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_185
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 14
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3147bc659c91df880800000000000000
+      internalID: -8575669762908261357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_186
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec4c184680f229b0800000000000000
+      internalID: -5106254567958622999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_187
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 19
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274f0a3ec3916020800000000000000
+      internalID: 2333308595901253419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_188
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 36
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b401ddd043a0d0800000000000000
+      internalID: -3412812771178006989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_0: -939881597135971900
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_1: -6204847276819923111
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_10: -519692622669642572
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_100: 3227307479415602674
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_101: 11740114390480679
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_102: -3979047536025329175
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_103: -9169332580579167298
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_104: 2658843897855472012
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_105: -3369868226043192576
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_106: 4662051294196933128
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_107: -3202860000938424307
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_108: -3440518564023484456
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_109: 4274125790180736422
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_11: -9190033854024130548
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_110: -5245492446779426700
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_111: 6247354527312435443
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_112: -7192958029492140920
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_113: -1378073544217280812
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_114: -5279375174075323725
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_115: 2390647179842845698
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_116: 4538806943241635149
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_117: 4761004778335440693
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_118: 6704757319990360129
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_119: 5927456376108521676
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_12: 711902802922751365
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_120: -5933420489152558994
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_121: 1377670109361399876
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_122: -3517704192626016694
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_123: 6000941753279625753
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_124: 3282106112945766082
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_125: -7846685054657854660
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_126: 4634309091051648117
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_127: 6926297748982161680
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_128: 1204065089519585599
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_129: 4803074991890472453
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_13: 8915873374420313552
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_130: 4307165400163096959
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_131: -2757530822904133906
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_132: 731969009201692520
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_133: -3745096876354836538
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_134: -2097984932702402067
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_135: -8506870103110631094
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_136: 1719417450043782440
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_137: -1253429215815511914
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_138: 4785293200660757046
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_139: -7265973353293364920
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_14: 8617037688633500105
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_140: -5717151507543063181
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_141: 6552389223230785559
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_142: -4316881162473294718
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_143: -2257669885643847449
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_144: -1417421629882992308
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_145: 449621950343514677
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_146: 1823437217355311668
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_147: -1456622757566890166
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_148: 4884352873010541910
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_149: -8029202948696867527
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_15: 3824951455602855105
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_150: 4749243812173412155
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_151: 4823219671798413955
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_152: -315669399406666058
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_153: 1538333446049231888
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_154: -7853252249779961804
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_155: -218737439746990347
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_156: -1757264196520512833
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_157: 634680906939509183
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_158: 7814076401487290733
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_159: 4672927716615048123
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_16: -3887713996335221851
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_160: -7715497573985936375
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_161: 7747854249235891667
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_162: 6495966264861773090
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_163: 7670254087670066240
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_164: 2277790952586962102
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_165: -5025154268819381258
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_166: 5475553137550085262
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_167: 8444356320463664611
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_168: 2507740871028922861
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_169: 4257487545962497297
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_17: -6447304834814235323
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_170: -2818551510789331258
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_171: -3565423614521416234
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_172: -1608744183983295403
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_173: 8811435556661861391
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_174: 8661906008012517224
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_175: -315038736660883860
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_176: -4484658157786571596
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_177: -1141414198543770755
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_178: 2886293611529287987
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_179: 6418824028271681635
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_18: 4140197822764650263
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_180: 3385377990712152932
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_181: -8532444939246513968
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_182: -4037809030138773750
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_183: -1342913932592934857
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_184: 7272935852763955557
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_185: -8575669762908261357
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_186: -5106254567958622999
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_187: 2333308595901253419
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_188: -3412812771178006989
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_19: 1939958502555334943
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_2: 1411184521115134226
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_20: -6551960493250664805
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_21: -3717364024938853164
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_22: -1617720455829495243
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_23: 8277685581078639506
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_24: -6303157197998192504
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_25: 638256247449130698
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_26: -950383020996720194
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_27: 7327774698562947358
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_28: 3581073514403465501
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_29: -8906126253170928682
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_3: 824610707992596860
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_30: 6524157828149112293
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_31: -8426974682184900066
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_32: 4144707364004934392
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_33: 1967252316318387374
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_34: 2259194664685069705
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_35: -7254520982308732116
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_36: -1308899526021258326
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_37: -2003445662751797496
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_38: 3103989181130394824
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_39: -3044978389304171798
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_4: -3280168315226214273
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_40: 7436618534112007169
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_41: -9200249981313899680
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_42: 5854537636938850446
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_43: -3015239649437827738
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_44: 6479117320890800610
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_45: -7958866054344439613
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_46: 3437617840952657262
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_47: 2724669487580964572
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_48: 1404036275011827038
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_49: -7088879429044998157
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_5: 6664481566358180237
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_50: -6628196521968489387
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_51: -3702203781511918130
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_52: -775549610413709622
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_53: -2948788176850196807
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_54: -216036866686074226
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_55: -3765968989021606867
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_56: -999792867964652398
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_57: -4707114893610853807
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_58: -2726011601615758811
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_59: -9049333815996936399
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_6: -973329505180612783
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_60: 6919822856611590551
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_61: 3765959492638020831
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_62: 7632857438035784484
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_63: -3066895626544383083
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_64: 725983602151563120
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_65: -270846365300259181
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_66: 1395577389706390114
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_67: -4419807254220386311
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_68: 7774567680714965981
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_69: -2525803070384660004
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_7: 6286321993940721697
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_70: 7871021424732785889
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_71: 205309262157254050
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_72: 6717312392259783226
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_73: -7364591393320929659
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_74: -6391673970752840384
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_75: 2693905740007298316
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_76: -1463573434653756895
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_77: 5875103160931920519
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_78: -6636835453097512637
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_79: 2434054554507018112
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_8: -188281066133848401
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_80: -3886799261071294785
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_81: -719617025760228073
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_82: 6128614268138074485
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_83: -7810178104117500077
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_84: 829268512940490966
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_85: -6656901281941434617
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_86: 4340997652092456367
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_87: -2614276747460876550
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_88: 7140618662902080454
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_89: 2580142594169855713
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_9: 2634775510738923296
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_90: 7082453188218645666
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_91: 3080573622484314320
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_92: -9013646640591070248
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_93: 3724270198425329408
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_94: 5731749029796510808
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_95: -7408066612426021138
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_96: -6882238265736582748
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_97: -9016703050494517640
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_98: 4660037211686909428
+      PC Computer - Star Wars Galactic Battlegrounds - Heavy AT-ST_99: -6695607230184510886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 45810ee899e722d4090a0fbbdae90da0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1061254216945362387
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_0
+  - first:
+      213: 3087788381831555085
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_1
+  - first:
+      213: -2070508938796512218
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_2
+  - first:
+      213: 5614305240026747346
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_3
+  - first:
+      213: 3473092777078125336
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_4
+  - first:
+      213: -6725129257354667192
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_5
+  - first:
+      213: -5544169835499027834
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_6
+  - first:
+      213: 7907802002315532210
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_7
+  - first:
+      213: -7015358857266082737
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_8
+  - first:
+      213: -668332911355143446
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_9
+  - first:
+      213: -6156000276862350610
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_10
+  - first:
+      213: -4878285360447025993
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_11
+  - first:
+      213: -3118474053990801988
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_12
+  - first:
+      213: 3146985972447904636
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_13
+  - first:
+      213: 1228148535084591699
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_14
+  - first:
+      213: 3173089665038141673
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_15
+  - first:
+      213: -1417382240754890398
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_16
+  - first:
+      213: 2813456491313008148
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_17
+  - first:
+      213: 152972722858803677
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_18
+  - first:
+      213: -8826327875503540106
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_19
+  - first:
+      213: 6975303454631213821
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_20
+  - first:
+      213: -9184884109618847922
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_21
+  - first:
+      213: 1663748792756851742
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_22
+  - first:
+      213: 7397601232226269966
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_23
+  - first:
+      213: 5425519339864037822
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_24
+  - first:
+      213: -4038607860753983397
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_25
+  - first:
+      213: -3077331450860835884
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_26
+  - first:
+      213: -2982281782260876232
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_27
+  - first:
+      213: 7746856415058958389
+    second: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 402
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a169699eaa541f0800000000000000
+      internalID: -1061254216945362387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 403
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e5a86c270ada20800000000000000
+      internalID: 3087788381831555085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 405
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c43c617131443e0800000000000000
+      internalID: -2070508938796512218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 406
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19864bed40aed40800000000000000
+      internalID: 5614305240026747346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 404
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81377b1ca77e23030800000000000000
+      internalID: 3473092777078125336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 308
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd9ca529a8ba2a0800000000000000
+      internalID: -6725129257354667192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 309
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68205aca8e62f03b0800000000000000
+      internalID: -5544169835499027834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 311
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d32616082ebd60800000000000000
+      internalID: 7907802002315532210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 312
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc3ccc94074ae90800000000000000
+      internalID: -7015358857266082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 310
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea59f212ca99b6f0800000000000000
+      internalID: -668332911355143446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 221
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeac9643d5e719aa0800000000000000
+      internalID: -6156000276862350610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 222
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc01999f49dc4cb0800000000000000
+      internalID: -4878285360447025993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1b9ace54f8b4d0800000000000000
+      internalID: -3118474053990801988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 225
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305e881175cab20800000000000000
+      internalID: 3146985972447904636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 223
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a222de5924b0110800000000000000
+      internalID: 1228148535084591699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8cf051d34190c20800000000000000
+      internalID: 3173089665038141673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698bd49c52745ce0800000000000000
+      internalID: -1417382240754890398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 133
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e8ab3c5c76b0720800000000000000
+      internalID: 2813456491313008148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c25681e77f1200800000000000000
+      internalID: 152972722858803677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 132
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678bb75af85928580800000000000000
+      internalID: -8826327875503540106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 46
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa39d509814dc060800000000000000
+      internalID: 6975303454631213821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 47
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd90fd09cb88080800000000000000
+      internalID: -9184884109618847922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 49
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14d1cb46b2d61710800000000000000
+      internalID: 1663748792756851742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 50
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bb6d4602f89a660800000000000000
+      internalID: 7397601232226269966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 48
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99b9e08115b4b40800000000000000
+      internalID: 5425519339864037822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5898a05c8bf3f7c0800000000000000
+      internalID: -4038607860753983397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db6d4f895f1b45d0800000000000000
+      internalID: -3077331450860835884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 11
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb834158ecc96d0800000000000000
+      internalID: -2982281782260876232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5389b896ddc528b60800000000000000
+      internalID: 7746856415058958389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_0: -1061254216945362387
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_1: 3087788381831555085
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_10: -6156000276862350610
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_11: -4878285360447025993
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_12: -3118474053990801988
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_13: 3146985972447904636
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_14: 1228148535084591699
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_15: 3173089665038141673
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_16: -1417382240754890398
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_17: 2813456491313008148
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_18: 152972722858803677
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_19: -8826327875503540106
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_2: -2070508938796512218
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_20: 6975303454631213821
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_21: -9184884109618847922
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_22: 1663748792756851742
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_23: 7397601232226269966
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_24: 5425519339864037822
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_25: -4038607860753983397
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_26: -3077331450860835884
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_27: -2982281782260876232
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_28: 7746856415058958389
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_3: 5614305240026747346
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_4: 3473092777078125336
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_5: -6725129257354667192
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_6: -5544169835499027834
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_7: 7907802002315532210
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_8: -7015358857266082737
+      PC Computer - Star Wars Galactic Battlegrounds - Imperial Tie Fighter_9: -668332911355143446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
