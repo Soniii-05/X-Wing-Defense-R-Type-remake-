@@ -14,7 +14,7 @@ public class Floor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.x >= -5.7f)
+        if (transform.position.x >= -9.13f)
         {
             transform.position = new Vector2(transform.position.x - 0.01f, transform.position.y);
         } else 

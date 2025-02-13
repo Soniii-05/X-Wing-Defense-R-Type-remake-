@@ -1,13 +1,11 @@
 fileFormatVersion: 2
-guid: faa1ac3529b72ef418212993f12443d0
+guid: 925a6ccbc3a218b44b8ddcc7d50c266f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4640216735557828908
-    second: SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface_0
-  - first:
-      213: -2410097288218634118
-    second: SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface_1
+      213: -2593518500818438646
+    second: SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface
+      1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,45 +114,24 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface_0
+      name: SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface
+        1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
-        width: 141
-        height: 89
+        y: 0
+        width: 255
+        height: 86
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c214fbb398c556040800000000000000
-      internalID: 4640216735557828908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 962
-        width: 256
-        height: 63
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a78989d194d9d8ed0800000000000000
-      internalID: -2410097288218634118
+      spriteID: a0630502aa8f10cd0800000000000000
+      internalID: -2593518500818438646
       vertices: []
       indices: 
       edges: []
@@ -163,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface_0: 4640216735557828908
-      SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface_1: -2410097288218634118
+      SNES - Super Star Wars 3 Return of the Jedi - Level 15 - Death Star Surface 1_0: -2593518500818438646
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
