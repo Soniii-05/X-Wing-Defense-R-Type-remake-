@@ -5,11 +5,19 @@ public class MainMenu : MonoBehaviour
 {  
     public void PlayGame()
     {
-        SceneManager.LoadScene(1); //change the scene number
+        SceneManager.LoadScene(2); //change the scene number
     }
 
     public void QuitGame()
     {
         Application.Quit();
     }
+
+    public void HowToPlayMenu()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+
+
 }
