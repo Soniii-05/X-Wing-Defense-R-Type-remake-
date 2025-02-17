@@ -2,35 +2,18 @@ using UnityEngine;
 
 public class ShootingMuzzle : MonoBehaviour
 {
-    public GameObject bullet; //cosa crea
-    public Transform[] muzzle; //dove lo crea
-    public float bulletForce;
-    private int currentMuzzleIndex = 0; //indice iniziale
+    public GameObject bullet; // prefab del proiettile
+    public Transform[] muzzle; // posizione in cui lo crea
+    public float bulletForce; // forza del proiettile quando sparato
+    private int currentMuzzleIndex = 0; // index iniziale per il ciclo
 
     public void Fire()
     {
-        // Crea il proiettile nella posizione e rotazione del muzzle corrente
+        // crea il proiettile nella posizione "muzzle" con la sua rotazione e posizione, ottiene il rigid body e ci aggiunge un impulso verso destra
         GameObject projectile = Instantiate(bullet, muzzle[currentMuzzleIndex].position, muzzle[currentMuzzleIndex].rotation);
         projectile.GetComponent<Rigidbody2D>().AddForce(muzzle[currentMuzzleIndex].right * bulletForce, ForceMode2D.Impulse);
 
-        // Incrementa l'indice del muzzle
-        currentMuzzleIndex = (currentMuzzleIndex + 1) % muzzle.Length; // Cicla attraverso gli indici
+        // incrementa l'index del muzzle
+        currentMuzzleIndex = (currentMuzzleIndex + 1) % muzzle.Length; 
     }
-
-    /*
-    public GameObject bullet; //cosa crea
-    public Transform muzzle; //dove lo crea
-    public Transform muzzle2;
-
-    public float bulletForce;
-    public void Fire()
-    {
-        //crea il proiettile nella posizione e rotazione del muzzle
-        GameObject projectile = Instantiate(bullet, muzzle.position, muzzle.rotation);
-        projectile.GetComponent<Rigidbody2D>().AddForce(muzzle.right * bulletForce, ForceMode2D.Impulse);
-        
-        GameObject projectile1 = Instantiate(bullet, muzzle2.position, muzzle2.rotation);
-        projectile.GetComponent<Rigidbody2D>().AddForce(muzzle2.right * bulletForce, ForceMode2D.Impulse);
-    }
-    */
 }

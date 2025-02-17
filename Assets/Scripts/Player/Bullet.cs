@@ -10,8 +10,10 @@ public class Bullet : MonoBehaviour
     {
         throw new NotImplementedException();
     }
+
     public void Update() 
     {
+        //se i proiettili arrivano alla posizione 9.10 dell'asse x si distruggono
         if (transform.position.x >= 9.10f)
         {
             Destroy(gameObject);

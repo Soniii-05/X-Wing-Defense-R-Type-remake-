@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f; // velocità del player
-    private Rigidbody2D rb;
+    public float moveSpeed; // velocità del player
+    private Rigidbody2D rb; 
     private Vector2 moveDirection;
     private float rotationAngle = 25f;  // gradi di rotazione
     private float originalRotation = 0f; // grado di rotazione originale
@@ -32,7 +33,7 @@ public class PlayerController : MonoBehaviour
         if (moveY > 0)  // se la y del player aumenta
         {
             transform.rotation = Quaternion.Euler(0, 0, rotationAngle);  // ruota di n gradi
-        } else if (moveY < 0)  // Se il tasto S � premuto
+        } else if (moveY < 0)  // se la y del player diminuisce
         { 
             transform.rotation = Quaternion.Euler(0, 0, -rotationAngle);  // ruota di -n gradi
         } else
@@ -46,4 +47,15 @@ public class PlayerController : MonoBehaviour
     {
         rb.linearVelocity = moveDirection * moveSpeed;
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("GameOver");
+            gameObject.SetActive(false);
+            SceneManager.LoadScene(5);
+        }
+    }
+
 }
