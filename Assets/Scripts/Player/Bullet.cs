@@ -19,5 +19,14 @@ public class Bullet : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // se collide con il game object con tag "bullet" si distrugge
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            
+            Destroy(gameObject);
+            
+        }
+    }
 }

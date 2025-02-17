@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class Enemy : MonoBehaviour
 {
+    public GameObject explosionPrefab;
 
     // Update is called once per frame
     void Update()
@@ -16,11 +17,12 @@ public class Enemy : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        // se collide con il game object con tag "bullet" si distrugge
         if (collision.gameObject.CompareTag("Bullet"))
         {
-            Debug.Log("hai sconfitto un tie");
+            GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
             Destroy(gameObject);
-            //gameObject.SetActive(false);
+            Destroy(explosionInstance, 0.5f);
         }
     }
 }
