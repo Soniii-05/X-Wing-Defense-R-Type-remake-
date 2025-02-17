@@ -10,4 +10,12 @@ public class Bullet : MonoBehaviour
     {
         throw new NotImplementedException();
     }
+    public void Update() 
+    {
+        if (transform.position.x >= 9.10f)
+        {
+            Destroy(gameObject);
+        }
+    }
+
 }
