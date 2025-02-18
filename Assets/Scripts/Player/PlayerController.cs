@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private float rotationAngle = 25f;  // gradi di rotazione
     private float originalRotation = 0f; // grado di rotazione originale
     public ShootingMuzzle muzzle; // si riferisce allo script
-    public GameObject explosionPrefab;
+    public GameObject explosionPrefab; //esplosione da applicare in caso di morte
 
     void Start()
     {

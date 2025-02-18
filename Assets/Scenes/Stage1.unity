@@ -257,6 +257,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224046336}
   - component: {fileID: 224046337}
+  - component: {fileID: 224046338}
   m_Layer: 0
   m_Name: Stars Black Sky
   m_TagString: Untagged
@@ -334,6 +335,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &224046338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224046335}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394f0069f240bd646b1b9e486aec2c8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedFloor: 1
 --- !u!1 &224533067
 GameObject:
   m_ObjectHideFlags: 0
@@ -1785,7 +1799,7 @@ Transform:
   m_GameObject: {fileID: 1193889431}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.74, y: -2.25, z: 0}
+  m_LocalPosition: {x: 9.79, y: -2.87, z: -1}
   m_LocalScale: {x: 5.13, y: 5.13, z: 5.13}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -1804,7 +1818,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemySpawnPoint: {fileID: 1193889431}
-  enemyPrefab: {fileID: 7228692239653615641, guid: 32a33a46e3d95b34d9e5b74bfa7da5a3, type: 3}
+  enemyPrefab: {fileID: 2114954739749432400, guid: 8d02406c653930744a4e506595410ac6, type: 3}
   firstSpawn: 1.8
   spawnInterval: 7
   spawnForce: {x: -5, y: 0}
@@ -1987,9 +2001,9 @@ GameObject:
   - component: {fileID: 1449522190}
   - component: {fileID: 1449522191}
   - component: {fileID: 1449522192}
+  - component: {fileID: 1449522195}
   - component: {fileID: 1449522193}
   - component: {fileID: 1449522194}
-  - component: {fileID: 1449522195}
   m_Layer: 0
   m_Name: X-Wing
   m_TagString: Untagged
@@ -2270,6 +2284,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 394f0069f240bd646b1b9e486aec2c8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speedFloor: 1.5
 --- !u!1 &1749462220
 GameObject:
   m_ObjectHideFlags: 0
@@ -2884,5 +2899,5 @@ SceneRoots:
   - {fileID: 2145465381}
   - {fileID: 1265773467}
   - {fileID: 1131528053}
-  - {fileID: 996398545}
   - {fileID: 493248383}
+  - {fileID: 996398545}

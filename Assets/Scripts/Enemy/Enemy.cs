@@ -3,7 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class Enemy : MonoBehaviour
 {
-    public GameObject explosionPrefab;
+    public GameObject explosionPrefab; //prefab dell'animazione della morte
+    public float timeDeath; //durata dell'animazione
+    private int collisionCount = 0; //quanti proitettili servono per eliminare il nemico
 
     // Update is called once per frame
     void Update()
@@ -17,12 +19,20 @@ public class Enemy : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+
         // se collide con il game object con tag "bullet" si distrugge
         if (collision.gameObject.CompareTag("Bullet"))
         {
-            GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
-            Destroy(gameObject);
-            Destroy(explosionInstance, 0.5f);
+            collisionCount++;
+
+            // Se il contatore delle collisioni raggiunge 4
+            if (collisionCount >= 4)
+            {
+                //GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
+                Destroy(gameObject);
+                GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
+                Destroy(explosionInstance, timeDeath);
+            }
         }
     }
 }
