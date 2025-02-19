@@ -4,8 +4,6 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
 
-    //public Rigidbody2D rb;
-
     internal void SetVelocity(Vector3 direction)
     {
         throw new NotImplementedException();
@@ -19,8 +17,10 @@ public class Bullet : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    
+    private void OnTriggerEnter2D(Collider2D collision)
     {
+
         // se collide con il game object con tag "bullet" si distrugge
         if (collision.gameObject.CompareTag("Enemy"))
         {
@@ -28,5 +28,6 @@ public class Bullet : MonoBehaviour
             Destroy(gameObject);
             
         }
+
     }
 }
