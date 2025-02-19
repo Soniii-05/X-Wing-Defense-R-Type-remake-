@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
             GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
             Destroy(explosionInstance, 0.5f);
             gameObject.SetActive(false);
-            SceneManager.LoadScene(5);
+            SceneManager.LoadScene(4);
         }
     }
 

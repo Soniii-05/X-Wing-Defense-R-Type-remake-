@@ -128,6 +128,7 @@ MonoBehaviour:
   explosionPrefab: {fileID: 6236747283869406061, guid: 409b4641a6bdd244185cc6d8a02c7a9a, type: 3}
   timeDeath: 1
   numberCollision: 4
+  points: 200
 --- !u!50 &-1565467634075972746
 Rigidbody2D:
   serializedVersion: 5
