@@ -1,5 +1,7 @@
 using System;
+using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemySpawner : MonoBehaviour
 {
@@ -10,6 +12,7 @@ public class EnemySpawner : MonoBehaviour
     public Vector2 spawnForce = new Vector2(-5f, 0f); // direzione della forza (sinistra)
     public int  spawnCount; //quanti prefab spawnare
     private int spawnedEnemies = 0; // contatore dei nemici spawnati
+    public int nextScene;
 
     void Start()
     {
@@ -35,6 +38,14 @@ public class EnemySpawner : MonoBehaviour
         {
             // ferma l'"InvokeRepeating" di "SpawnEnemy"
             CancelInvoke("SpawnEnemy");
+            // invoca la funzione LoadScene con un ritardo
+            Invoke("LoadNextScene", 10f); // ad esempio 2 secondi di ritardo
+            //SceneManager.LoadScene(nextScene);
         }
+    }
+    void LoadNextScene()
+    {
+        // carica la scena
+        SceneManager.LoadScene(nextScene);
     }
 }      

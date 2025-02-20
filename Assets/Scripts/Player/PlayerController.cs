@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     private float originalRotation = 0f; // grado di rotazione originale
     public ShootingMuzzle muzzle; // si riferisce allo script
     public GameObject explosionPrefab; //esplosione da applicare in caso di morte
+    public int scena;
 
     void Start()
     {
@@ -57,7 +58,7 @@ public class PlayerController : MonoBehaviour
             GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
             Destroy(explosionInstance, 0.5f);
             gameObject.SetActive(false);
-            SceneManager.LoadScene(4);
+            SceneManager.LoadScene(5);
         }
     }
 
