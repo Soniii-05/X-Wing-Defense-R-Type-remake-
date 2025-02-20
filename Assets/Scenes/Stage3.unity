@@ -135,7 +135,7 @@ GameObject:
   m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &149798295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -154,7 +154,7 @@ MonoBehaviour:
   spawnInterval: 4
   spawnForce: {x: -5, y: 0}
   spawnCount: 7
-  nextScene: 4
+  nextScene: 5
 --- !u!4 &149798296
 Transform:
   m_ObjectHideFlags: 0
@@ -640,7 +640,7 @@ GameObject:
   m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &255271839
 Transform:
   m_ObjectHideFlags: 0
@@ -674,7 +674,7 @@ MonoBehaviour:
   spawnInterval: 3
   spawnForce: {x: -5, y: 0}
   spawnCount: 10
-  nextScene: 4
+  nextScene: 5
 --- !u!1 &493248382
 GameObject:
   m_ObjectHideFlags: 0
@@ -1217,7 +1217,7 @@ GameObject:
   m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &679171636
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1236,7 +1236,7 @@ MonoBehaviour:
   spawnInterval: 7
   spawnForce: {x: -5, y: 0}
   spawnCount: 5
-  nextScene: 4
+  nextScene: 5
 --- !u!4 &679171637
 Transform:
   m_ObjectHideFlags: 0
@@ -3083,12 +3083,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemySpawnPoint: {fileID: 1850737103}
-  enemyPrefab: {fileID: 7228692239653615641, guid: 32a33a46e3d95b34d9e5b74bfa7da5a3, type: 3}
+  enemyPrefab: {fileID: 1862344295092303765, guid: 6edd0ba9000550648b536ac6e625e671, type: 3}
   firstSpawn: 7
   spawnInterval: 4
   spawnForce: {x: -5, y: 0}
-  spawnCount: 7
-  nextScene: 4
+  spawnCount: 10
+  nextScene: 5
 --- !u!1 &1898091226
 GameObject:
   m_ObjectHideFlags: 0
@@ -3370,7 +3370,7 @@ GameObject:
   m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1996785251
 Transform:
   m_ObjectHideFlags: 0
@@ -3404,7 +3404,7 @@ MonoBehaviour:
   spawnInterval: 4
   spawnForce: {x: -5, y: 0}
   spawnCount: 7
-  nextScene: 4
+  nextScene: 5
 --- !u!1 &2145465380
 GameObject:
   m_ObjectHideFlags: 0

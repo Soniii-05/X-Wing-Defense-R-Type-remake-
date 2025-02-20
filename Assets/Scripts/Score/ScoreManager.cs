@@ -14,7 +14,7 @@ public class ScoreManager : MonoBehaviour
         UpdateScoreUI();
     }
 
-    // aggoirna il testo UI
+    // aggiorna il testo UI
     private void UpdateScoreUI()
     {
         if (scoreText != null)

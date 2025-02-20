@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ShootingMuzzle : MonoBehaviour
+public class EnemyShootingMuzzle : MonoBehaviour
 {
     public GameObject bullet; // prefab del proiettile
     public Transform[] muzzle; // posizione in cui lo crea
@@ -9,11 +9,14 @@ public class ShootingMuzzle : MonoBehaviour
 
     public void Fire()
     {
-        // crea il proiettile nella posizione "muzzle" con la sua rotazione e posizione, ottiene il rigidbody e ci aggiunge un impulso verso destra
+        // crea il proiettile nella posizione "muzzle" con la sua rotazione e posizione
         GameObject projectile = Instantiate(bullet, muzzle[currentMuzzleIndex].position, muzzle[currentMuzzleIndex].rotation);
-        projectile.GetComponent<Rigidbody2D>().AddForce(muzzle[currentMuzzleIndex].right * bulletForce, ForceMode2D.Impulse);
+
+        // aggiungi un impulso verso sinistra
+        Vector2 direction = -muzzle[currentMuzzleIndex].right; // usa il vettore "right" invertito per andare verso sinistra
+        projectile.GetComponent<Rigidbody2D>().AddForce(direction * bulletForce, ForceMode2D.Impulse);
 
         // incrementa l'index del muzzle
-        currentMuzzleIndex = (currentMuzzleIndex + 1) % muzzle.Length; 
+        currentMuzzleIndex = (currentMuzzleIndex + 1) % muzzle.Length;
     }
 }

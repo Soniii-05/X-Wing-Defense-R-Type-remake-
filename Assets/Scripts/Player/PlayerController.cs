@@ -58,7 +58,13 @@ public class PlayerController : MonoBehaviour
             GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
             Destroy(explosionInstance, 0.5f);
             gameObject.SetActive(false);
-            SceneManager.LoadScene(5);
+            SceneManager.LoadScene(6);
+        } else if (collision.gameObject.CompareTag("EnemyBullet"))
+        {
+            GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
+            Destroy(explosionInstance, 0.5f);
+            gameObject.SetActive(false);
+            SceneManager.LoadScene(6);
         }
     }
 

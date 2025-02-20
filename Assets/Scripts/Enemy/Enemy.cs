@@ -11,7 +11,8 @@ public class Enemy : MonoBehaviour
     public int points; // punti da aggiungere al punteggio quando il nemico viene distrutto
     private ScoreManager scoreManager; // riferimento al ScoreManager
 
-    
+    public EnemyShootingMuzzle muzzle;
+
     void Start()
     {
         // trova il ScoreManager nella scena
@@ -22,6 +23,9 @@ public class Enemy : MonoBehaviour
     
     void Update()
     {
+        muzzle.Fire();
+
+
         //  se il nemico raggiunge la posizione -9.5x, si distrugge
         if (transform.position.x <= -9.5f)
         {
