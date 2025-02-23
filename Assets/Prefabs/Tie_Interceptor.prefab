@@ -107,6 +107,7 @@ MonoBehaviour:
   explosionPrefab: {fileID: 1513619816173151905, guid: b52c3917a10f53643a832decf5625e9b, type: 3}
   timeDeath: 0.5
   numberCollision: 2
+  destroyEnemy: 9.15
   points: 400
 --- !u!114 &1771323728473752496
 MonoBehaviour:

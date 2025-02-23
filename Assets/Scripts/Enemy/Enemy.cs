@@ -7,6 +7,7 @@ public class Enemy : MonoBehaviour
     public float timeDeath; // durata dell'animazione
     private int collisionCount = 0; // numero di inizio conteggio
     public int numberCollision; // quanti proiettili servono per eliminare il nemico
+    public float destroyEnemy; // posizione in cui si distruggono in scena
 
     public int points; // punti da aggiungere al punteggio quando il nemico viene distrutto
     private ScoreManager scoreManager; // riferimento al ScoreManager
@@ -22,7 +23,7 @@ public class Enemy : MonoBehaviour
     void Update()
     {
         //  se il nemico raggiunge la posizione -9.5x, si distrugge
-        if (transform.position.x <= -9.5f)
+        if (transform.position.x <= -destroyEnemy)
         {
             Destroy(gameObject);
         }

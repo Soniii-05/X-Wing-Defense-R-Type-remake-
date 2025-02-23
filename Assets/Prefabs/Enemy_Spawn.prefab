@@ -46,7 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemySpawnPoint: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  firstSpawn: 5
+  firstSpawn: 7
   spawnInterval: 0
   spawnForce: {x: -5, y: 0}
   spawnCount: 0
+  nextScene: 0

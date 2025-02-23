@@ -39,7 +39,7 @@ public class EnemySpawner : MonoBehaviour
             // ferma l'"InvokeRepeating" di "SpawnEnemy"
             CancelInvoke("SpawnEnemy");
             // invoca la funzione LoadScene con un ritardo
-            Invoke("LoadNextScene", 10f); // ad esempio 2 secondi di ritardo
+            Invoke("LoadNextScene", 10f); 
             //SceneManager.LoadScene(nextScene);
         }
     }
