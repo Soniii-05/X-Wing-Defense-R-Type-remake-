@@ -65,6 +65,12 @@ public class PlayerController : MonoBehaviour
             Destroy(explosionInstance, 0.5f);
             gameObject.SetActive(false);
             SceneManager.LoadScene(6);
+        } else if (collision.gameObject.CompareTag("Border"))
+        {
+            GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
+            Destroy(explosionInstance, 0.5f);
+            gameObject.SetActive(false);
+            SceneManager.LoadScene(6);
         }
     }
 
