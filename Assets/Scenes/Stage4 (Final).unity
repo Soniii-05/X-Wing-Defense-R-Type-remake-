@@ -740,7 +740,7 @@ MonoBehaviour:
   enemySpawnPoint: {fileID: 255271838}
   enemyPrefab: {fileID: 1091810218755189451, guid: b374b048292830a4d8fb091f0373b570, type: 3}
   firstSpawn: 9
-  spawnInterval: 10
+  spawnInterval: 13
   spawnForce: {x: -2, y: 0}
   spawnCount: 3
   nextScene: 6
@@ -3798,7 +3798,7 @@ MonoBehaviour:
   enemySpawnPoint: {fileID: 1940347081}
   enemyPrefab: {fileID: 7228692239653615641, guid: 32a33a46e3d95b34d9e5b74bfa7da5a3, type: 3}
   firstSpawn: 7
-  spawnInterval: 4
+  spawnInterval: 5
   spawnForce: {x: -10, y: 0}
   spawnCount: 7
   nextScene: 6
