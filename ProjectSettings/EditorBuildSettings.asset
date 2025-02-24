@@ -16,10 +16,10 @@ EditorBuildSettings:
     guid: 433c37f58b4251641b4078bc9cd545d2
   - enabled: 1
     path: Assets/Scenes/Stage2.unity
-    guid: 81970048758ba3242b865993801b7f90
+    guid: 925771c040d2e8f4bb13786cc39af21c
   - enabled: 1
     path: Assets/Scenes/Stage3.unity
-    guid: 3da4b6c6e6570c74babca40d30da2b72
+    guid: 5a3ddf45e31add145a2ee22ece997d42
   - enabled: 1
     path: Assets/Scenes/Stage4 (Final).unity
     guid: 20667801d38145b408655355a96b15df
@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 4a8b5042cb9ee724aa13b92f2706143c
+  - enabled: 1
+    path: Assets/Scenes/Stages.unity
+    guid: 70636106ebf251147ab5b9ab571084b6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

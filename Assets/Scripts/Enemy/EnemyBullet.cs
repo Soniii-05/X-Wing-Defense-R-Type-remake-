@@ -3,34 +3,38 @@ using UnityEngine;
 
 public class EnemyBullet : MonoBehaviour
 {
-    public float velocita = 5f;
+    public float speed = 5f;
+    public int damage = 50;  // danno del proiettile del nemico
+
 
     void Start()
     {
-        // Muove il proiettile verso sinistra
-        GetComponent<Rigidbody2D>().linearVelocity = Vector2.left * velocita;
+        // muove il proiettile verso sinistra
+        GetComponent<Rigidbody2D>().linearVelocity = Vector2.left * speed;
     }
 
 
     public void Update()
     {
-        //se i proiettili arrivano alla posizione -9.10 dell'asse x si distruggono
+        //se i proiettili arrivano alla posizione -10 dell'asse x si distruggono (escono di scena)
         if (transform.position.x <= -10f)
         {
             Destroy(gameObject);
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    // in collisione con il tag "Player" tolgono HP e si distruggono
+    void OnCollisionEnter2D(Collision2D collision)
     {
-
-        // se collide con il game object con tag "player" si distrugge
         if (collision.gameObject.CompareTag("Player"))
         {
-            //e toglie hp
-            Destroy(gameObject);
+            HealthPlayer playerHealth = collision.gameObject.GetComponent<HealthPlayer>();
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(damage);  
+            }
 
+            Destroy(gameObject);  
         }
-
     }
 }

@@ -12,7 +12,7 @@ public class EnemySpawner : MonoBehaviour
     public Vector2 spawnForce = new Vector2(-5f, 0f); // direzione della forza (sinistra)
     public int  spawnCount; //quanti prefab spawnare
     private int spawnedEnemies = 0; // contatore dei nemici spawnati
-    public int nextScene;
+    public int nextScene; // scena seguente
 
     void Start()
     {
@@ -40,12 +40,11 @@ public class EnemySpawner : MonoBehaviour
             CancelInvoke("SpawnEnemy");
             // invoca la funzione LoadScene con un ritardo
             Invoke("LoadNextScene", 10f); 
-            //SceneManager.LoadScene(nextScene);
         }
     }
     void LoadNextScene()
     {
-        // carica la scena
+        // carica la scena (scelta nell'inspector)
         SceneManager.LoadScene(nextScene);
     }
 }      

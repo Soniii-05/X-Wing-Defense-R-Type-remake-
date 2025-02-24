@@ -15,14 +15,13 @@ public class Enemy : MonoBehaviour
     void Start()
     {
         // trova il ScoreManager nella scena
-        //scoreManager = FindObjectOfType<ScoreManager>();
         scoreManager = Object.FindFirstObjectByType<ScoreManager>();
     }
     
     
     void Update()
     {
-        //  se il nemico raggiunge la posizione -9.5x, si distrugge
+        //  se il nemico raggiunge la posizione n, si distrugge (esce di scena)
         if (transform.position.x <= -destroyEnemy)
         {
             Destroy(gameObject);

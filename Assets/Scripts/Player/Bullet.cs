@@ -3,7 +3,6 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-
     internal void SetVelocity(Vector3 direction)
     {
         throw new NotImplementedException();
@@ -11,7 +10,7 @@ public class Bullet : MonoBehaviour
 
     public void Update() 
     {
-        //se i proiettili arrivano alla posizione 9.10 dell'asse x si distruggono
+        //se i proiettili arrivano alla posizione 9.10 dell'asse x si distruggono (escono di scena)
         if (transform.position.x >= 9.10f)
         {
             Destroy(gameObject);
@@ -24,9 +23,7 @@ public class Bullet : MonoBehaviour
         // se collide con il game object con tag "Enemy" si distrugge
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            
-            Destroy(gameObject);
-            
+            Destroy(gameObject);           
         }
 
     }

@@ -8,9 +8,8 @@ public class PlayerController : MonoBehaviour
     private Vector2 moveDirection;
     private float rotationAngle = 25f;  // gradi di rotazione
     private float originalRotation = 0f; // grado di rotazione originale
-    public ShootingMuzzle muzzle; // si riferisce allo script
+    public ShootingMuzzle muzzle; // si riferisce allo script "ShootingMuzzle"
     public GameObject explosionPrefab; //esplosione da applicare in caso di morte
-    public int scena;
 
     void Start()
     {
@@ -59,19 +58,13 @@ public class PlayerController : MonoBehaviour
             Destroy(explosionInstance, 0.5f);
             gameObject.SetActive(false);
             SceneManager.LoadScene(7);
-        } else if (collision.gameObject.CompareTag("EnemyBullet"))
-        {
-            GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
-            Destroy(explosionInstance, 0.5f);
-            gameObject.SetActive(false);
-            SceneManager.LoadScene(7);
         } else if (collision.gameObject.CompareTag("Border"))
-        {
+          {
             GameObject explosionInstance = Instantiate(explosionPrefab, transform.position, transform.rotation);
             Destroy(explosionInstance, 0.5f);
             gameObject.SetActive(false);
             SceneManager.LoadScene(7);
-        }
+          }
     }
 
 }

@@ -116,7 +116,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1862344295092303765}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c71e609f24478249b0a3c566ce669af, type: 3}
   m_Name: 
@@ -206,13 +206,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1588378501060871523}
+  - component: {fileID: 7824107914562888022}
   m_Layer: 0
   m_Name: ShootingMuzzle
   m_TagString: Untagged
   m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1588378501060871523
 Transform:
   m_ObjectHideFlags: 0
@@ -222,9 +223,26 @@ Transform:
   m_GameObject: {fileID: 2620884826272481434}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.138, y: -0.118, z: 0}
+  m_LocalPosition: {x: -0.35, y: 0.015, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1973884529867887830}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7824107914562888022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2620884826272481434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f01c353190749a841b817c39b8103a27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 4751778577707884664, guid: 23cb7dc9146fad749a70afab5ad08ba0, type: 3}
+  spawnInterval: 3
+  shootForce: 10
+  muzzles:
+  - {fileID: 1588378501060871523}
