@@ -693,57 +693,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 749861135}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &255271838
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 255271839}
-  - component: {fileID: 255271840}
-  m_Layer: 0
-  m_Name: Enemy_1_Spawn
-  m_TagString: Untagged
-  m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &255271839
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 255271838}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.73, y: -1.24, z: 0}
-  m_LocalScale: {x: 5.13, y: 5.13, z: 5.13}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 996398545}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &255271840
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 255271838}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2e84c563d9a2834487057afd80f91b2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemySpawnPoint: {fileID: 255271838}
-  enemyPrefab: {fileID: 1091810218755189451, guid: b374b048292830a4d8fb091f0373b570, type: 3}
-  firstSpawn: 9
-  spawnInterval: 10
-  spawnForce: {x: -2, y: 0}
-  spawnCount: 5
-  nextScene: 6
 --- !u!1 &259335915
 GameObject:
   m_ObjectHideFlags: 0
@@ -2130,39 +2079,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 992920317}
   m_CullTransparentMesh: 1
---- !u!1 &996398544
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 996398545}
-  m_Layer: 0
-  m_Name: --EnemySpawner
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!4 &996398545
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 996398544}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -3}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 255271839}
-  - {fileID: 1940347082}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1011801389
 GameObject:
   m_ObjectHideFlags: 0
@@ -3938,57 +3854,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1898091226}
   m_CullTransparentMesh: 1
---- !u!1 &1940347081
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1940347082}
-  - component: {fileID: 1940347083}
-  m_Layer: 0
-  m_Name: Enemy_1_Spawn (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1940347082
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1940347081}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.73, y: 3.24, z: 0}
-  m_LocalScale: {x: 5.13, y: 5.13, z: 5.13}
-  m_ConstrainProportionsScale: 1
-  m_Children: []
-  m_Father: {fileID: 996398545}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1940347083
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1940347081}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2e84c563d9a2834487057afd80f91b2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemySpawnPoint: {fileID: 1940347081}
-  enemyPrefab: {fileID: 7228692239653615641, guid: 32a33a46e3d95b34d9e5b74bfa7da5a3, type: 3}
-  firstSpawn: 7
-  spawnInterval: 4
-  spawnForce: {x: -10, y: 0}
-  spawnCount: 7
-  nextScene: 6
 --- !u!1 &1974723057
 GameObject:
   m_ObjectHideFlags: 0
@@ -4198,5 +4063,4 @@ SceneRoots:
   - {fileID: 227384406}
   - {fileID: 1131528053}
   - {fileID: 493248383}
-  - {fileID: 996398545}
   - {fileID: 1145612804}

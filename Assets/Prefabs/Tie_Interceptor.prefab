@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 1973884529867887830}
   - component: {fileID: 5542413951600841992}
   - component: {fileID: 81214233578766268}
-  - component: {fileID: 1771323728473752496}
   - component: {fileID: 6897431204154010056}
   - component: {fileID: 6328045368753158629}
   m_Layer: 0
@@ -109,21 +108,6 @@ MonoBehaviour:
   numberCollision: 2
   destroyEnemy: 9.15
   points: 400
---- !u!114 &1771323728473752496
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1862344295092303765}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c71e609f24478249b0a3c566ce669af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 4751778577707884664, guid: 23cb7dc9146fad749a70afab5ad08ba0, type: 3}
-  spawnInterval: 3
-  shootForce: 10
 --- !u!50 &6897431204154010056
 Rigidbody2D:
   serializedVersion: 5

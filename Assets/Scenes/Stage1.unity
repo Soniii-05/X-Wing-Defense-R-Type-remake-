@@ -671,7 +671,7 @@ MonoBehaviour:
   enemySpawnPoint: {fileID: 255271838}
   enemyPrefab: {fileID: 7228692239653615641, guid: 32a33a46e3d95b34d9e5b74bfa7da5a3, type: 3}
   firstSpawn: 7.5
-  spawnInterval: 7
+  spawnInterval: 5
   spawnForce: {x: -10, y: 0}
   spawnCount: 6
   nextScene: 4
